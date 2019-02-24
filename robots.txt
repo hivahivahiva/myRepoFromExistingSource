@@ -3,3 +3,5 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
+
+rahim: This is to demonstrate how changes in remote repository can be integrated to local repository.
